@@ -58,7 +58,7 @@ Since this project fetches its dependencies via CDN, no complex environment setu
 ### Local Setup
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/jlandaa/Metodo-de-Euler.git](https://github.com/jlandaa/Metodo-de-Euler.git)
+    git clone https://github.com/jlandaa/Euler-Method.git
     ```
 2.  **Verify Structure**: Ensure `style.css` is located inside a folder named `css/` relative to `index.html`.
 3.  **Run**: Simply open `index.html` in any modern web browser.
